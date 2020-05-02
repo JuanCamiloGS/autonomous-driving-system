@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Red">
+    <file>neuralcol.png</file>
+  </qresource>
+</RCC>
